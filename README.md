@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewlutley
-- 👀 I’m interested in radio astronomy in general and muson detectors.
+- 👀 I’m interested in radio astronomy in general and VLF data processing and muon detectors in particular.
 - 🌱 I’m currently learning how to use matplotlib.
 - 💞️ I’m looking to collaborate on code to enable comparison of VLF data files and GOES X-ray data files.
 - 📫 How to reach me andrew@ajlutley.co.uk.
